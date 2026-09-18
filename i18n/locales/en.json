@@ -1,0 +1,43 @@
+{
+  "app": {
+    "title": "Taamjoo",
+    "tagline": "Discover flavors around you"
+  },
+  "nav": {
+    "home": "Home",
+    "map": "Map",
+    "search": "Search",
+    "profile": "Profile",
+    "add": "Add"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "back": "Go back",
+    "search": "Search",
+    "or": "OR"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "toggle": "Toggle theme"
+  },
+  "language": {
+    "switch": "Switch language"
+  },
+  "category": {
+    "restaurant": "Restaurant",
+    "cafe": "Cafe",
+    "bakery": "Bakery",
+    "fast_food": "Fast Food",
+    "bar": "Bar",
+    "dessert": "Dessert",
+    "other": "Other"
+  }
+}
